@@ -1,4 +1,4 @@
----
+```yaml
 RH Dispatch No. [###]  
 [Dispatch Title — Make it Tactile & Evocative]  
 📅 Date: [YYYY-MM-DD]  
